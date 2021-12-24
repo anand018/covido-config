@@ -1,8 +1,6 @@
-<<<<<<< HEAD
-spring.rabbitmq.host=localhost
-spring.rabbitmq.port=5672
-spring.rabbitmq.username=guest
-spring.rabbitmq.password=guest
-=======
-message: vaccine api
->>>>>>> 066683b5be638b24dab2ff0f46a547ef076c6877
+spring:
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: guest
+    password: guest
